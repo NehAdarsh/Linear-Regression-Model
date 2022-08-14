@@ -169,4 +169,3 @@ predictedLog <- ifelse(predictedNumLog > thresh,1,0)
 test$predicted <- predictedLog
 
 
-
